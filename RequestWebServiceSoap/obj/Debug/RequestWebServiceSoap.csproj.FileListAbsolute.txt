@@ -1,0 +1,14 @@
+c:\users\daniel.saraiva1\source\repos\RequestWebServiceSoap\RequestWebServiceSoap\bin\Debug\RequestWebServiceSoap.exe.config
+c:\users\daniel.saraiva1\source\repos\RequestWebServiceSoap\RequestWebServiceSoap\bin\Debug\RequestWebServiceSoap.exe
+c:\users\daniel.saraiva1\source\repos\RequestWebServiceSoap\RequestWebServiceSoap\bin\Debug\RequestWebServiceSoap.pdb
+c:\users\daniel.saraiva1\source\repos\RequestWebServiceSoap\RequestWebServiceSoap\obj\Debug\RequestWebServiceSoap.csprojResolveAssemblyReference.cache
+c:\users\daniel.saraiva1\source\repos\RequestWebServiceSoap\RequestWebServiceSoap\obj\Debug\RequestWebServiceSoap.csproj.CoreCompileInputs.cache
+c:\users\daniel.saraiva1\source\repos\RequestWebServiceSoap\RequestWebServiceSoap\obj\Debug\RequestWebServiceSoap.exe
+c:\users\daniel.saraiva1\source\repos\RequestWebServiceSoap\RequestWebServiceSoap\obj\Debug\RequestWebServiceSoap.pdb
+C:\github\RequestWebServiceSoap\RequestWebServiceSoap\bin\Debug\RequestWebServiceSoap.exe.config
+C:\github\RequestWebServiceSoap\RequestWebServiceSoap\bin\Debug\RequestWebServiceSoap.exe
+C:\github\RequestWebServiceSoap\RequestWebServiceSoap\bin\Debug\RequestWebServiceSoap.pdb
+C:\github\RequestWebServiceSoap\RequestWebServiceSoap\obj\Debug\RequestWebServiceSoap.csprojResolveAssemblyReference.cache
+C:\github\RequestWebServiceSoap\RequestWebServiceSoap\obj\Debug\RequestWebServiceSoap.csproj.CoreCompileInputs.cache
+C:\github\RequestWebServiceSoap\RequestWebServiceSoap\obj\Debug\RequestWebServiceSoap.exe
+C:\github\RequestWebServiceSoap\RequestWebServiceSoap\obj\Debug\RequestWebServiceSoap.pdb
